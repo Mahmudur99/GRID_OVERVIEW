@@ -1,0 +1,12 @@
+section{
+	border: 2px solid yellow;
+}
+.row{
+	min-height: 6rem;
+}
+.box{
+	height: 40px;
+	background-color: violet;
+	margin: 5px ;
+
+}
